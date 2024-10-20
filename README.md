@@ -1,4 +1,4 @@
-# ChatBotLib
+# LibChatBot
 
 请在两种语言的README中选择一种 / Please select one of the two language READMEs
 
